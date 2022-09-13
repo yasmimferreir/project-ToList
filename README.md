@@ -14,7 +14,7 @@
 
 <h3>O site tem no total 1 página, sendo ela:
 
-<h3>Página principal: A página principal consiste em uma interface de Login de email, senha.
+<h3>Página principal: A página consiste em uma interface de texto e adicionar.
 
 <br>🎯 Etapas
 <br>✔️ Desenvolver a interaface com a biblioteca ReactJs.
