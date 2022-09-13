@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+<h1> ReactJs tela TodoList - Lista de Tarefas📰 <br>
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Todelist](https://user-images.githubusercontent.com/97356148/189931748-8585aadc-83af-487c-a73c-da15988b64a9.png)
 
-## Available Scripts
+<h2>🚀 Deploy da aplicação: https://curious-twilight-7b04dd.netlify.app/
 
-In the project directory, you can run:
 
-### `npm start`
+<br>📄 Explicação
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3>O projeto de Lista de Tarefas foi criado com objetivo de colocar em prática meus conhecimentos em ReactJs, podendo listas, adicionar os dados, também a renderização na tela, possibilidade de deletar.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br><h1>📁 Páginas
 
-### `npm test`
+<h3>O site tem no total 1 página, sendo ela:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3>Página principal: A página principal consiste em uma interface de Login de email, senha.
 
-### `npm run build`
+<br>🎯 Etapas
+<br>✔️ Desenvolver a interaface com a biblioteca ReactJs.
+<br>✔️ Adicionar o evento de clique ao teclar Adicionar.
+<br>✔️ Adicionar o evento na tela.
+<br>✔️ Adicionar o evento de click ao deletar.
+<br>✔️ Adicionar a função delete.
+<br>✔️ Evento de deletar.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>🛠Projeto em andamento🛠.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h1>🚀 Tecnologias
+<br><h3>ReactJs
+<br><h3>JavaScript
+<br><h3>Styled-components
+<br><h3>Html
 
-### `npm run eject`
+<br>🤝 Colaborador(a)
+ <br>Yasmim Ferreira Costa
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
